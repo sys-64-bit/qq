@@ -5,4 +5,4 @@ When the close file is opened, it allows you to press the delete key and immedia
 
 ![image](https://github.com/user-attachments/assets/e618a6f2-6eb3-4553-9797-092276d42e1f)
 
--file
+
