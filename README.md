@@ -4,4 +4,5 @@ Introuducing the close file.
 When the close file is opened, it immediately closes the tab that you are on using alt-f4 and alt tab to get to the next tab. 
 
 ![image](https://github.com/user-attachments/assets/e618a6f2-6eb3-4553-9797-092276d42e1f)
+
 -file
